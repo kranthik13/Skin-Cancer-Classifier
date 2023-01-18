@@ -29,7 +29,7 @@ Important solution content :
 1. [End-to-End Modelling Notebook](G_Kranthi_Kiran.ipynb) : The full end-to-end modelling notebook which contains all the modelling and the analysis done
 2. [PDF](End-to-End Modelling Notebook.pdf) : The notebook in a pdf format
 3. [HTML](End-to-End Modelling Notebook.pptx) : The notebook in a html format
-
+4. [Weights for the Trained Model Attached] : The .hdf5 files are for the trained model weights
 
 ## Technologies Used
 1. Plotly==5.3.1
